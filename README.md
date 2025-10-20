@@ -96,6 +96,8 @@ Below is the circuit used for this project:
 ---
 
 ## 💡 Inspiration
-> “IoT connects not just devices, but ideas — bringing real-time insights to life.”
+>**“IoT connects not just devices, but ideas — bringing real-time insights to life.”**
+
+Google Drive Link For Demonstration Video : https://drive.google.com/file/d/1uXkWBRzC61p6PD0UDy1x7pJ3MHIJaBIT/view?usp=drive_link
 
 ---
